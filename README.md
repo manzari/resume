@@ -6,7 +6,7 @@
 - **File Hosting and Embedding:** Easily upload and embed files, enhancing your resume with PDFs or other additional content
 - **Print-Ready Format:** Export your resume by simply clicking print in the browser resulting in a clean, professional layout that retains all content integrity
 - **Tracking and Notifications:** Link Matomo and Gotify to track who views your resume and when, receiving notifications to stay informed about viewer interactions.
-- 
+ 
 ## Repositories
 ### [manzari/resume-frontend](https://github.com/manzari/resume-frontend)
 
